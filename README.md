@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkatavellanki
 - 👀 I’m interested in Geography and IT. 
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Software Development and Project Management 
+- 🌱 I’m currently learning FSD
+- 💞️ I’m looking to collaborate on Data Science, AI/ML, and Project Management 
 - 📫 How to reach me at Linkeldn @VenkatVellanki
 
 <!---
