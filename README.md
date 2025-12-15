@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venkat Aditya Vellanki
 
 🎓 Computer Science Graduate from SRM Institute of Science and Technology  
-💼 Completed college and will soon assume a role at an internship or full-time job  
+💼 Working professional associate ASE at Tata Consultancy Services. 
 💡 Passionate about using technology to solve real-world problems
 
 ---
